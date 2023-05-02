@@ -7,6 +7,7 @@ links shared, monthly timeline, daily timeline, activity map, most busy users, w
 
 
 
+<img width="1225" alt="Screenshot 2023-05-02 at 7 08 20 PM" src="https://user-images.githubusercontent.com/103438753/235741098-5cfe2d31-2e79-4167-b9ac-6a107a2f5bd5.png">
 **Getting Started**
 
 To use this application, you need to have the following software installed on your machine:
@@ -74,6 +75,7 @@ Activity Map - This section displays two bar charts showing the busiest day and 
 Most Busy Users - This section displays a bar chart and a table showing the busiest users in the chat.
 
 Word Cloud - This section displays a word cloud based on the selected user's chat data.
+![Uploading Screenshot 2023-05-02 at 7.11.22 PM.png…]()
 
 Most Common Words - This section displays a horizontal bar chart showing the most common words used in the chat.
 
