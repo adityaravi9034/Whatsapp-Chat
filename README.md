@@ -75,7 +75,7 @@ Activity Map - This section displays two bar charts showing the busiest day and 
 Most Busy Users - This section displays a bar chart and a table showing the busiest users in the chat.
 
 Word Cloud - This section displays a word cloud based on the selected user's chat data.
-![Uploading Screenshot 2023-05-02 at 7.11.22 PM.png…]()
+
 
 Most Common Words - This section displays a horizontal bar chart showing the most common words used in the chat.
 
