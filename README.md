@@ -1,7 +1,6 @@
 
   # Whatsapp-Chat
-<!-- <p style="text-align: center;">
-</p>  -->
+ <p style="text-align: center;"> <img src="https://img.shields.io/github/repo-size/adityaravi9034/Whatsapp-Chat"/> </p> 
 
 
 Do you ever wonder who sends the most messages in your group chat?
@@ -19,7 +18,7 @@ links shared, monthly timeline, daily timeline, activity map, most busy users, w
 
 ## Dependencies
 
-- Python 3.7 <
+- Python 3.7+
 - streamlit
 - Matplotlib
 - urlextract
@@ -93,3 +92,10 @@ The application is built using Python and the Streamlit framework. The code is o
 - The chat file must be in plain text format.
 - The application assumes that the chat data has been exported in the following format: "hh:mm:ss sender_name: message_text".
 - The application does not currently support analysis of media files, such as images and videos, shared in the chat.
+
+---
+## Contributors
+
+<a href="https://github.com/adityaravi9034/Whatsapp-Chat/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=adityaravi9034/Whatsapp-Chat" />
+</a>
